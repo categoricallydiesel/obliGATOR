@@ -3,7 +3,7 @@
 Turns the Obligator's spiked mace head into Zebak's head.
 
 - **Wielded:** the ball on the end of the chain is replaced by a Zebak head hanging from the chain by its neck. This
-  applies to every player wielding a charged or uncharged Obligator, while standing, moving and attacking.
+  applies to every player wielding a charged Obligator, while standing, moving and attacking.
 - **5-tick throw:** with a charged Obligator, the thrown mace is redrawn with a Zebak head in place of the ball, which
   grows out of the throw as the ball would.
 - **Chomp:** as the throw reaches the furthest point, where the hit lands, a large translucent green Zebak head appears
