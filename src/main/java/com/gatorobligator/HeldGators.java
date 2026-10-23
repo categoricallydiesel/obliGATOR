@@ -329,7 +329,8 @@ class HeldGators
 			return false;
 		}
 		int weapon = comp.getEquipmentId(KitType.WEAPON);
-		return weapon == ItemID.OBLIGATOR || weapon == ItemID.OBLIGATOR_UNCHARGED;
+		// the uncharged Obligator is left as the game draws it
+		return weapon == ItemID.OBLIGATOR;
 	}
 
 	private static final class Held
